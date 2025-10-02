@@ -19,7 +19,7 @@
 
   --color-secondary: #e8f5e8;
   --color-secondary-foreground: #1a1a1a;
-
+      
   --color-muted: #e8f5e8;
   --color-muted-foreground: #6b7280;
 
@@ -182,7 +182,7 @@
   h5 {
     font-size: 1.25rem;
     font-weight: 600;
-  }
+  }  
 
   h6 {
     font-size: 1.125rem;
